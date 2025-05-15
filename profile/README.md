@@ -1,5 +1,3 @@
-## About Artsy
-
 <a href="https://www.artsy.net/">
   <img align="left" src="https://avatars2.githubusercontent.com/u/546231?s=200&v=4"/>
 </a>
